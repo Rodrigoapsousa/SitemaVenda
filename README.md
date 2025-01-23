@@ -1,14 +1,10 @@
 # Sistema de Pedidos em Java
 
-Bem-vindo ao projeto de Sistema de Pedidos! Este guia foi elaborado para ajudá-lo a configurar e executar o projeto no Visual Studio Code.
-
-## Estrutura de Pastas
-
-O projeto está organizado da seguinte maneira:
+Bem-vindo ao projeto de Sistema de Pedidos! Projeto criado para Bootcamp DIO
 
 
-- **`src`**: Contém todo o código-fonte do projeto.
-- **`lib`**: Use essa pasta para gerenciar dependências, se necessário (não há dependências externas no momento).
+
+
 
 ## Pré-requisitos
 
